@@ -28,6 +28,16 @@
 - @react-navigation/native => Utilizado para a criação de abas incluso a home e senhas salvas. 
 - @react-native-async-storage/async-storage => Utilizado para poder ter acesso a um banco de dados local nos dispositivos para realizar o armazenamento das senhas salvas. 
 
+#### Bibliotecas 
+
+```sh
+npx expo install @react-native-community/slider
+
+npx expo install react-native-screens react-native-safe-area-context
+
+npx expo install @react-native-async-storage/async-storage
+```
+
 #### Executar
 ```sh
 npx expo start
