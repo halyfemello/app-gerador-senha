@@ -44,3 +44,13 @@ npx expo start
 
 clicar => "a" para executar no emulador ou ler o qrcode no app do expo no aparelho. 
 ```
+
+#### Imagens
+
+![image](https://github.com/halyfemello/app-gerador-senha/assets/30935716/1ee4ac0f-bd57-4362-a9fb-aa7550fca704)
+
+![image](https://github.com/halyfemello/app-gerador-senha/assets/30935716/229d433b-df34-4fc8-925a-061696b210eb)
+
+![image](https://github.com/halyfemello/app-gerador-senha/assets/30935716/e68dbf26-6204-4c4f-a514-6ef59ac766c1)
+
+![image](https://github.com/halyfemello/app-gerador-senha/assets/30935716/7d60432c-5bec-4b04-b41a-c003d7d28f3f)
